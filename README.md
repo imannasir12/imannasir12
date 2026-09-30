@@ -41,7 +41,6 @@ class Iman:
 <p>
 <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Swift-1a1b27?style=for-the-badge&logo=swift&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Spark-1a1b27?style=for-the-badge&logo=apachespark&logoColor=A78BFA" />
